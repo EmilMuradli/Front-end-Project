@@ -1,0 +1,91 @@
+.header {
+  height: 124px;
+}
+
+.nav_menu {
+  width: 1232px;
+  height: 56px;
+  left: 104px;
+  top: 32px;
+}
+
+.logo {
+  background-color: black;
+  position: absolute;
+  width: 135px;
+  height: 56px;
+  left: 104px;
+  top: 32px;
+}
+
+.interaction {
+  position: absolute;
+  width: 618px;
+  height: 19px;
+  left: 327px;
+  top: 51px;
+}
+
+.Add-Item {
+  background-color: #fa3c45;
+  border-radius: 8px;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 24px;
+
+  position: absolute;
+  width: 158px;
+  height: 47px;
+  left: 1178px;
+  top: 36px;
+}
+
+.pink-circle {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 1106px;
+  top: 41px;
+}
+
+.gradient {
+  position: absolute;
+  width: 1439px;
+  height: 681px;
+  left: 0px;
+  top: -42px;
+
+  background: linear-gradient(
+    89.96deg,
+    #000000 -0.66%,
+    rgba(255, 255, 255, 0) 99.27%
+  );
+}
+
+.btn-home {
+  border: none;
+  color: #ffffff;
+}
+.btn-explore {
+  border: none;
+  color: #ffffff;
+}
+.btn-showroom {
+  border: none;
+  color: #ffffff;
+}
+.btn-credit-simulation {
+  border: none;
+  color: #ffffff;
+}
+.btn-contact-us {
+  border: none;
+  color: #ffffff;
+}
+.btn-page {
+  border: none;
+  color: #ffffff;
+}
