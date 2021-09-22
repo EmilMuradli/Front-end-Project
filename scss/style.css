@@ -1,13 +1,11 @@
 .header {
-  height: 124px;
-}
+  height: 124px; }
 
 .nav_menu {
   width: 1232px;
   height: 56px;
   left: 104px;
-  top: 32px;
-}
+  top: 32px; }
 
 .logo {
   background-color: black;
@@ -15,52 +13,50 @@
   width: 135px;
   height: 56px;
   left: 104px;
-  top: 32px;
-}
+  top: 32px; }
 
 .interaction {
   position: absolute;
   width: 618px;
   height: 19px;
   left: 327px;
-  top: 51px;
-}
+  top: 51px; }
+
 .btn-home {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .btn-explore {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .btn-showroom {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .btn-credit-simulation {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .btn-contact-us {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .btn-page {
   cursor: pointer;
   border: none;
   background-color: black;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .Add-Item {
   cursor: pointer;
@@ -73,13 +69,11 @@
   justify-content: center;
   align-items: center;
   padding: 14px 24px;
-
   position: relative;
   width: 158px;
   height: 47px;
   left: 1178px;
-  top: 36px;
-}
+  top: 36px; }
 
 .pink-circle {
   cursor: pointer;
@@ -87,19 +81,16 @@
   width: 40px;
   height: 40px;
   left: 1106px;
-  top: 41px;
-}
+  top: 41px; }
 
 .Explore {
   display: flex;
-  justify-content: center;
-}
+  justify-content: center; }
 
 .explore-background {
   background-color: black;
   height: 600px;
-  width: 1580;
-}
+  width: 1580; }
 
 .car {
   position: absolute;
@@ -112,8 +103,8 @@
   font-weight: normal;
   line-height: 120%;
   font-size: 24px;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .model {
   position: absolute;
   width: 512.64px;
@@ -124,8 +115,7 @@
   font-style: normal;
   font-weight: bold;
   font-size: 64px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .mileage-name {
   position: absolute;
@@ -133,16 +123,15 @@
   height: 57px;
   top: 360px;
   left: 182px;
-  color: #ffffff;
-}
+  color: #ffffff; }
+
 .mileage-number {
   position: absolute;
   width: 59.96px;
   height: 57px;
   top: 390px;
   left: 182px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .engine-name {
   position: absolute;
@@ -150,8 +139,7 @@
   height: 57px;
   top: 360px;
   left: 300px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .engine-number {
   position: absolute;
@@ -159,8 +147,7 @@
   height: 57px;
   top: 390px;
   left: 300px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .fuel-economy {
   position: absolute;
@@ -168,8 +155,7 @@
   height: 57px;
   top: 345px;
   left: 400px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .fuel-number {
   position: absolute;
@@ -177,8 +163,7 @@
   height: 57px;
   top: 390px;
   left: 400px;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 .buy-now {
   cursor: pointer;
@@ -187,7 +172,6 @@
   justify-content: center;
   align-items: center;
   padding: 18px 24px;
-
   position: absolute;
   width: 127.91px;
   height: 56px;
@@ -196,8 +180,7 @@
   background: #fa3c45;
   border-radius: 8px;
   border: none;
-  color: #ffffff;
-}
+  color: #ffffff; }
 
 #brand {
   position: absolute;
@@ -205,8 +188,7 @@
   height: 56px;
   left: 152.89px;
   top: 724px;
-  border-radius: 8px;
-}
+  border-radius: 8px; }
 
 .brand-select {
   position: absolute;
@@ -214,8 +196,7 @@
   height: 29px;
   left: 320px;
   top: 735px;
-  font-size: 24px;
-}
+  font-size: 24px; }
 
 #select-model {
   position: absolute;
@@ -223,8 +204,7 @@
   height: 56px;
   left: 720px;
   top: 724px;
-  border-radius: 8px;
-}
+  border-radius: 8px; }
 
 .model-select {
   position: absolute;
@@ -232,8 +212,7 @@
   height: 29px;
   left: 890px;
   top: 735px;
-  font-size: 24px;
-}
+  font-size: 24px; }
 
 .search {
   display: flex;
@@ -241,7 +220,6 @@
   justify-content: center;
   align-items: center;
   padding: 18px 24px;
-
   position: absolute;
   width: 127.91px;
   height: 56px;
@@ -250,5 +228,6 @@
   color: #ffffff;
   background: #fa3c45;
   border-radius: 8px;
-  border: none;
-}
+  border: none; }
+
+/*# sourceMappingURL=style.css.map */
