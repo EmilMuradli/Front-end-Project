@@ -230,4 +230,105 @@
   border-radius: 8px;
   border: none; }
 
+.our-collection-word {
+  position: absolute;
+  width: 420px;
+  height: 74px;
+  left: 104px;
+  top: 1020px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 62px;
+  color: #11142d; }
+
+.container-card-model-sx {
+  position: absolute;
+  width: 816px;
+  height: 400px;
+  left: 104px;
+  top: 1131px;
+  background: #c5010a;
+  opacity: 0.8; }
+
+.card-esemka {
+  position: absolute;
+  width: 91px;
+  height: 22px;
+  left: 40px;
+  top: 120px;
+  color: #fde5e6;
+  font-size: 16px; }
+
+.card-model {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 40px;
+  top: 150px;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px; }
+
+.card-2000 {
+  position: absolute;
+  width: 44px;
+  height: 22px;
+  left: 50px;
+  top: 300px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fde5e6; }
+
+.card-electric {
+  position: absolute;
+  width: 59px;
+  height: 22px;
+  left: 140px;
+  top: 300px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fde5e6; }
+
+.card-automatic {
+  position: absolute;
+  width: 80px;
+  height: 22px;
+  left: 250px;
+  top: 300px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fde5e6; }
+
+.img-jetta {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 936px;
+  top: 1131px; }
+
+.img-mercedes {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 104px;
+  top: 1547px; }
+
+.img-bmwi8 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 520px;
+  top: 1547px; }
+
+.img-audiA8 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 936px;
+  top: 1547px; }
+
 /*# sourceMappingURL=style.css.map */
