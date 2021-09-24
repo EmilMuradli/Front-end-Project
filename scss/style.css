@@ -331,4 +331,216 @@
   left: 936px;
   top: 1547px; }
 
+.general-info-img {
+  position: absolute;
+  width: 608px;
+  height: 544px;
+  left: 104px;
+  top: 2147px; }
+
+.general-info-text-experiences {
+  position: absolute;
+  width: 568px;
+  height: 174px;
+  left: 800px;
+  top: 2200px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px; }
+
+.general-info-text-develop {
+  position: absolute;
+  width: 544px;
+  height: 38px;
+  left: 800px;
+  top: 2400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #9a9ab0; }
+
+.general-info-numbers-1000P {
+  position: absolute;
+  width: 145px;
+  height: 58px;
+  left: 800px;
+  top: 2528px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  color: #fa3c45; }
+
+.general-info-numbers-CarsSold {
+  position: absolute;
+  width: 136px;
+  height: 19px;
+  left: 800px;
+  top: 2602px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fa3c45; }
+
+.general-info-numbers-235 {
+  position: absolute;
+  width: 96px;
+  height: 58px;
+  left: 1000px;
+  top: 2528px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  color: #9a9ab0; }
+
+.general-info-numbers-Customers {
+  position: absolute;
+  left: 1000px;
+  top: 2602px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #9a9ab0; }
+
+.general-info-numbers-1100 {
+  position: absolute;
+  left: 1200px;
+  top: 2528px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  color: #9a9ab0; }
+
+.general-info-numbers-DealerReviews {
+  position: absolute;
+  left: 1200px;
+  top: 2602px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: #9a9ab0; }
+
+.choose-us-background {
+  position: absolute;
+  width: 1600px;
+  height: 880px;
+  left: 0px;
+  top: 2891px;
+  background: #c5010a; }
+
+.choose-us-img-example {
+  position: absolute;
+  width: 608px;
+  height: 608px;
+  left: 728px;
+  top: 3027px; }
+
+.main-text {
+  position: absolute;
+  width: 389px;
+  height: 58px;
+  left: 104px;
+  top: 3027px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  color: #ffffff; }
+
+.below-main-text {
+  position: absolute;
+  width: 427px;
+  height: 48px;
+  left: 104px;
+  top: 3117px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ffffff; }
+
+.placeholder-1 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 104px;
+  top: 3237px; }
+
+.placeholder-2 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 104px;
+  top: 3373px; }
+
+.placeholder-3 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 104px;
+  top: 3509px; }
+
+.choose-us-experience {
+  position: absolute;
+  width: 367px;
+  height: 29px;
+  left: 176px;
+  top: 3237px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff; }
+
+.choose-us-convenience {
+  position: absolute;
+  width: 371px;
+  height: 38px;
+  left: 176px;
+  top: 3282px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ffffff; }
+
+.choose-us-trust {
+  position: absolute;
+  width: 251px;
+  height: 29px;
+  left: 176px;
+  top: 3373px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff; }
+
+.choose-us-help {
+  position: absolute;
+  width: 410px;
+  height: 38px;
+  left: 176px;
+  top: 3418px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ffffff; }
+
+.choose-us-range {
+  position: absolute;
+  width: 251px;
+  height: 29px;
+  left: 176px;
+  top: 3509px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffffff; }
+
+.choose-us-customizable {
+  position: absolute;
+  width: 400px;
+  height: 38px;
+  left: 176px;
+  top: 3554px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #ffffff; }
+
 /*# sourceMappingURL=style.css.map */
